@@ -1,2 +1,2 @@
-https://github.com/pkgforge-community/ivan-hc_VirtualBox-appimage/releases/download/20260421-151124-20260421T170645/VirtualBox-KVM_7.2.6-archimage5.0-x86_64.AppImage
-Thu Apr 23 02:25:54 UTC 2026
+https://github.com/pkgforge-community/ivan-hc_VirtualBox-appimage/releases/download/7.2.6/VirtualBox-KVM_7.2.6-archimage4.3-x86_64.AppImage
+Fri Apr 24 02:26:45 UTC 2026
